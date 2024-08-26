@@ -1,0 +1,14 @@
+---
+title: "practice"
+date: "2024-08-26"
+---
+
+
+```{r}
+# Create a file from the basic stats report template in the current directory
+?create_from_template("basic_stats_report", "my_basic_analysis.Rmd")
+
+# Create a file from the advanced analysis report template in a specific directory
+create_from_template("advanced_analysis_report", "my_advanced_analysis.Rmd", "path/to/project/")
+```
+
