@@ -1,0 +1,5 @@
+name: Basic Statistical Report
+description: >
+  A template for creating basic statistical reports using R Markdown.
+  Includes sections for data summary, simple visualizations, and basic statistical tests.
+create_dir: true

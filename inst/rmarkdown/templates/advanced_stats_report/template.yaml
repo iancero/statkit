@@ -1,0 +1,6 @@
+name: Advanced Statistical Analysis Report
+description: >
+  A comprehensive template for advanced statistical analyses.
+  Includes sections for complex data manipulation, advanced visualizations,
+  and sophisticated statistical modeling.
+create_dir: true
